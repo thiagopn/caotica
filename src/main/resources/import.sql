@@ -1,0 +1,1 @@
+INSERT INTO users (username, password, authority) VALUES ("thiago@unifap.br", "$2a$10$lcQAd56Fi4y8bPrNwXiXhOH..9EQcaHvFk3ieFo2l/U5UrwPJUgGu", "ADMAS");
